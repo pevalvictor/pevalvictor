@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Víctor Pérez Valqui 👋
+# ¡Hola! Soy Victor Pérez Valqui 👋
 
 ### Bachiller en Ingeniería de Sistemas e Informática
 
